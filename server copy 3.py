@@ -6,8 +6,8 @@ import random
 import os
 
 DB_USER = 'system'
-DB_PASSWORD = 'roja#18'
-DB_DSN = 'DESKTOP-H2HFNCS'
+DB_PASSWORD = 'your password'
+DB_DSN = 'your hostname'
 
 def get_db_connection():
     try:
